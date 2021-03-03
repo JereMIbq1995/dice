@@ -30,7 +30,7 @@ root                    (project root folder)
 
 ## Required Technologies
 ---
-* Python 3.8.0
+* Python 3.8.2
 
 ## Authors
 ---
