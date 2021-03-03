@@ -34,5 +34,7 @@ root                    (project root folder)
 
 ## Authors
 ---
+```
 Name: Jeremy Duong
 Email: duo13001@byui.edu
+```
